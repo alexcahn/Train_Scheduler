@@ -1,0 +1,25 @@
+.jumbotron{
+    background-color: powderblue;
+    margin: 0 80px 50px;
+    padding-top: 60px;
+}
+
+.title{
+    background-color: burlywood;
+    font-size: 150%;
+    padding: 10px 10px 10px 20px;
+    font-weight: bold;
+}
+
+.borderText{
+ border: 2px burlywood solid;
+ padding: 7px 20px;
+}
+
+form{
+    margin-bottom: 20px;
+}
+
+#submitButton{
+    margin-bottom: 5px;
+}
